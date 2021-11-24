@@ -79,7 +79,7 @@ Copy paste: ```pip install pandas Flask```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Installation
-Once you've downloaded both ```_server.py``` and the ```db/``` directory, the execution can be done through double click or through an IDE. I use Visual Studio Code.
+Once you've downloaded both ```_server.py``` and the ```db/``` directory inside of the ```/src/``` directory, the execution can be done through double click or through an IDE. I use Visual Studio Code.
 ___Both AST and OS ship with Python___
 <p align="right">(<a href="#top">back to top</a>)</p>
 
