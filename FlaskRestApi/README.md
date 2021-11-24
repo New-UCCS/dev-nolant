@@ -74,6 +74,7 @@ __The installation of library prereqs will be held through pip, but feel free to
 &nbsp;
 
 <img src="images/pipbar1.png"/>
+
 ```pip install pandas Flask```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
