@@ -4,7 +4,7 @@
   <a href="https://github.com/dev-nolant"><u>Dev-Nolant</u></a>
 </p>
 <p align="center">
-  <img width="200" height="200" src="octocat-removebg.png"/>
+  <img width="200" height="200" src="images/octocat-removebg.png"/>
 </p><!--Change the link to your unique image/gif link-->
 <p align="center">
 <a href="https://github.com/dev-nolant">Report Bug</a> · <a href="https://github.com/dev-nolant">Request feature</a>
@@ -34,7 +34,7 @@
 
 ## About the Project
 <p align="center">
-  <img width="460" height="300" src="center image.png"/>
+  <img width="460" height="300" src="images/center image.png"/>
 </p>
 This project was uploaded to display a new style of README.md for the organization, as well as start our Python repositories off on a good foot!
 
@@ -73,7 +73,7 @@ __The installation of library prereqs will be held through pip, but feel free to
 &nbsp;&nbsp;&nbsp;In a terminal:
 &nbsp;
 
-<img src="pipbar1.png"/>
+<img src="images/pipbar1.png"/>
 ```pip install pandas Flask```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
