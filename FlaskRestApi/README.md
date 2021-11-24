@@ -20,7 +20,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][https://github.com/New-UCCS/dev-nolant/issues]
+[![Issues][https://github.com/New-UCCS/dev-nolant/issues]][https://github.com/New-UCCS/dev-nolant/issues]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
