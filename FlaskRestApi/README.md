@@ -83,7 +83,7 @@ ___Both AST and OS ship with Python___
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contributing
-In order to contribute, you make a [pull request], [fork], or create an [issue]
+In order to contribute, you make a [pull request](https://github.com/New-UCCS/dev-nolant/pulls), [fork](https://github.com/New-UCCS/dev-nolant/network/members), or create an [issue](https://github.com/New-UCCS/dev-nolant/issues)
 
 Doing these will allow me to come back and take a look at what you've done to the code to improve it!
 <p align="right">(<a href="#top">back to top</a>)</p>
