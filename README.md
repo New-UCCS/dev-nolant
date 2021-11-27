@@ -9,4 +9,4 @@ This is a repository for my projects!
 
 > [Log Handler](https://downgit.github.io/#/home?url=https://github.com/New-UCCS/dev-nolant/tree/main/LogHandlr)
 
-> [Example Rust command](https://downgit.github.io/#/home?url=https://github.com/New-UCCS/dev-nolant/tree/main/Example-Command-For-uMod-Rust-main)
+> [Example Rust Command](https://downgit.github.io/#/home?url=https://github.com/New-UCCS/dev-nolant/tree/main/Example-Command-For-uMod-Rust-main)
